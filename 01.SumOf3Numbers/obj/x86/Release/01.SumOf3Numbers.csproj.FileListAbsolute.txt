@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\SumOf3Numbers\bin\Release\SumOf3Numbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\SumOf3Numbers\bin\Release\SumOf3Numbers.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\SumOf3Numbers\obj\x86\Release\SumOf3Numbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\SumOf3Numbers\obj\x86\Release\SumOf3Numbers.pdb

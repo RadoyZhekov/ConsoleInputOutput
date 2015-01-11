@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\05.FormmatingNumbers\bin\Release\05.FormmatingNumbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\05.FormmatingNumbers\bin\Release\05.FormmatingNumbers.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\05.FormmatingNumbers\obj\x86\Release\05.FormmatingNumbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\05.FormmatingNumbers\obj\x86\Release\05.FormmatingNumbers.pdb

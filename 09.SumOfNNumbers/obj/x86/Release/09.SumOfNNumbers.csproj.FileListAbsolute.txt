@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\09.SumOfNNumbers\bin\Release\09.SumOfNNumbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\09.SumOfNNumbers\bin\Release\09.SumOfNNumbers.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\09.SumOfNNumbers\obj\x86\Release\09.SumOfNNumbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\09.SumOfNNumbers\obj\x86\Release\09.SumOfNNumbers.pdb

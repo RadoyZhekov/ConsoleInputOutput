@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\02.PrintCompanyInfo\bin\Release\02.PrintCompanyInfo.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\02.PrintCompanyInfo\bin\Release\02.PrintCompanyInfo.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\02.PrintCompanyInfo\obj\x86\Release\02.PrintCompanyInfo.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\02.PrintCompanyInfo\obj\x86\Release\02.PrintCompanyInfo.pdb

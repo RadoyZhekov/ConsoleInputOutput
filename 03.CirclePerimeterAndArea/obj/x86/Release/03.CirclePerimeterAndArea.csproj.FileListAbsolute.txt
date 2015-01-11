@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\03.CirclePerimeterAndArea\bin\Release\03.CirclePerimeterAndArea.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\03.CirclePerimeterAndArea\bin\Release\03.CirclePerimeterAndArea.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\03.CirclePerimeterAndArea\obj\x86\Release\03.CirclePerimeterAndArea.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\03.CirclePerimeterAndArea\obj\x86\Release\03.CirclePerimeterAndArea.pdb

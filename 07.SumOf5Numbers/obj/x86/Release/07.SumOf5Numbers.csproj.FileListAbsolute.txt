@@ -1,0 +1,4 @@
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\07.SumOf5Numbers\bin\Release\07.SumOf5Numbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\07.SumOf5Numbers\bin\Release\07.SumOf5Numbers.pdb
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\07.SumOf5Numbers\obj\x86\Release\07.SumOf5Numbers.exe
+C:\Users\Kondov\documents\visual studio 2010\Projects\Telerik\ConsoleInputOutput\SumOf3Numbers\07.SumOf5Numbers\obj\x86\Release\07.SumOf5Numbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\Kondov\AppData\Local\Temporary Projects\ConsoleInputOutput\bin\Release\ConsoleInputOutput.exe
+C:\Users\Kondov\AppData\Local\Temporary Projects\ConsoleInputOutput\bin\Release\ConsoleInputOutput.pdb
+C:\Users\Kondov\AppData\Local\Temporary Projects\ConsoleInputOutput\obj\x86\Release\ConsoleInputOutput.exe
+C:\Users\Kondov\AppData\Local\Temporary Projects\ConsoleInputOutput\obj\x86\Release\ConsoleInputOutput.pdb
